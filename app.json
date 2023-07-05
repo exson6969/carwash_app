@@ -5,6 +5,14 @@
       "bundler": "metro"
     },
     "name": "carwash",
-    "slug": "carwash"
+    "slug": "carwash",
+    "extra": {
+      "eas": {
+        "projectId": "cfd30e57-547b-44a5-8337-192cd3db28ac"
+      }
+    },
+    "android": {
+      "package": "com.xn.joseph.carwash"
+    }
   }
 }
